@@ -1,0 +1,7 @@
+Flask
+SpeechRecognition
+pyttsx3
+spacy
+requests
+beautifulsoup4
+pyaudio
